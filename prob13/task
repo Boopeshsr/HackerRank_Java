@@ -1,0 +1,43 @@
+Question: Java Substring
+
+Given a string s and two integers start and end, print a substring of s from index start to index end − 1.
+
+Input Format
+
+The first line contains a single string s.
+
+The second line contains two space-separated integers start and end.
+
+Constraints
+
+1
+≤
+∣
+𝑠
+∣
+≤
+100
+1≤∣s∣≤100
+
+0
+≤
+𝑠
+𝑡
+𝑎
+𝑟
+𝑡
+<
+𝑒
+𝑛
+𝑑
+≤
+∣
+𝑠
+∣
+0≤start<end≤∣s∣
+
+String s consists of English alphabetic letters only (a–z, A–Z).
+
+Output Format
+
+Print the substring in the inclusive range from start to end − 1.
